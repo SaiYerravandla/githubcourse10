@@ -10,5 +10,9 @@ public class LoginPage {
 		String known="guru sai";
 		
 		System.out.println(un + known);
+		
+		int i=2000;
+		int r=3000;
+		System.out.println(i+r);
 	}
 }
