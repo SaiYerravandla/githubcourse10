@@ -8,4 +8,7 @@ public class MyTest {
 	int age=35;
 	
 	String city="GUNTUR";
+	
+	String country="india";
+	int salary=50000;
 }

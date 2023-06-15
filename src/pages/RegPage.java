@@ -6,6 +6,7 @@ public class RegPage {
 		// TODO Auto-generated method stub
 
 		int i=10;
+		String e="my alphabet";
 	}
 
 }
